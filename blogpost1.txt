@@ -1,0 +1,36 @@
+
+Privacy, Compliance, Hacks, Web Scraping, Machine Learning etc.
+
+
+
+
+- Two major things happened . Go into detail for both of them.
+
+- Better to do things yourself and not rely on outside dependencies or blindly use / rely on dependencies.
+
+- NPM is a big one (dependency management has always been a double edged sword. (who hasn’t just npm install blindly at least once
+TODO: include link here. 
+
+
+- how they were exploited:
+
+- WordPress XSS vulneribility found in a lot of plugins etc.
+TODO: include link to wp xss vulneribility article 
+
+
+- Companies are tracking more of user behaviour for learning purposes to feed deep learning models
+
+(and they have to tell you about it, hence the annoying pop ups for privacy & compliance.
+
+- in the Python world, I’ve started using uv, and I have to give it praise for making dependency and environment management management way easier (incude link to uv here)
+
+
+- lastly, here’s what we’ve been cooking up this week:
+
+
+
+- 
+
+- 
+
+
